@@ -1,3 +1,12 @@
+# GregTech-Modern-Horizons
+This is a reiminagition of the old modpack, GregTech: New Horizons, for minecraft 1.20.1. I made this in response to some issues I had with GTNH, such as the magic mods and boring end game. The difficulty of this pack is planned to be very similar to GTNH, but with actually difficult processes rather than tediousness/repetitiveness.I made this pack in response to a couple issues I had with the original GTNH, such as repetitive processing during the end-game and poorly-integrated magic mods. The progress in my pack starts off difficult, but not as bad as GTNH, the true difficultly begins later down the line, in which I want to focus more on actual difficulty rather than repetitive and tedious processes. I've been working on this pack for about 4 months now and I've made a pretty good amount of progress. It's just been me developing the pack, with some help of others of course. The pack is in a pre-pre-pre-alpha state, as I'm taking it slow and playtesting it to insure that it is balanced and user-friendly.I've removed some key-mods from GTNH, such as the magic mods and TCon. I originally was going to integrate TCon into the progression line, but I replaced it with the auto-generated tool system from GtceuM. In my opinion, this increases difficulty for it forces players to create new tools instead of upgrading/repiaring their existing tools infinitly.I'm trying to make the quest book as good as I possibly can, similarly to GTNH where the quest book helps the players understand what they have to do without much confusion on what to do next. I've yet to actually post my pack on curseforge or modrinth, which is why I'm posting this in screenshots instead of pack-advertisement. I'll post updates here, along with what I already have.
+
+NOTE:
+This is a REIMAGINATION OF GTNH, NOT a port for modern versions(1.20.1)
+
+
+
+
 # QSMC Template Modpack
 
 This repository contains the source for a Minecraft 1.20.1 modpack.  It uses
@@ -141,3 +150,4 @@ using releases.
 See the [Dimension‑Gateway repo](https://github.com/TeamDimensional/Dimension-Gateway)
 
 I looked at it for information. It's quite nice.
+
