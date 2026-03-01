@@ -1,0 +1,26 @@
+# Ignore build outputs
+/build/
+
+# Minecraft instance data
+# we want to ignore the bulk of the launcher-specific files, but
+# still allow mods, config, scripts and groovy sources to be committed.
+/minecraft/*
+!/minecraft/mods/
+/minecraft/mods/*.jar
+/minecraft/mods/**/*.jar
+!/minecraft/config/
+!/minecraft/scripts/
+!/minecraft/groovy/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local IDE/workspace files
+.vscode/
+*.log
+
+# packer
+.packignore
+
+/instance.cfg

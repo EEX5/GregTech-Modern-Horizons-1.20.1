@@ -1,0 +1,13 @@
+name = "QSMC Template"
+author = "<name here>"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df68e3e403ccf4a4b1c9feed6ff12b324d5b36afffb58d2b9e2f870bee58d9d0"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"

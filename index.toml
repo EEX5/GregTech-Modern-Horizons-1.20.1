@@ -1,0 +1,216 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".github/workflows/build.yml"
+hash = "05add2c92c56757e5f919cda75b22541f969486d3c2e8c3c615b0e5ecc7fb3c7"
+
+[[files]]
+file = ".idea/QSMCTemplate.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "ae35239d178094e997ce56325cdbbd72d73b98686859d42326d7a32f3f5a4669"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "8062155e9d6361df9768a4329552277b61acd005cc9945b10bc282fbd0e04be6"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "f87de28e2ba088a484f7ee502c2a4cfc75ae0f67a2f9124c4c705655dc699798"
+
+[[files]]
+file = "LICENSE"
+hash = "fecd3b5d0bf459ea27933cd57cf3fa4c975308c8555e7cfbd5196360b83ddfca"
+
+[[files]]
+file = "README.md"
+hash = "d02beaa83bbfedf469a88ae4c696dae2c40d40e7e407cbd0b466817eb7d1d88d"
+
+[[files]]
+file = "compile.py"
+hash = "14971ee7fab045cc4832412cf9ed42c46d2b63a1eb40c6f3d81f7447d0646c0f"
+
+[[files]]
+file = "icon.png"
+hash = "0ec8d034b68ef91c54515abfb74d442805fadcf390add0bf7e458723a2c4bdbd"
+
+[[files]]
+file = "instance.cfg"
+hash = "792208b81c1cf8a090716a375ea74bef828f791b09af1f753268a1bfc534a202"
+
+[[files]]
+file = "metadata/index.toml"
+hash = "93a4b25864a7e71c92e02829df5bb02b7296d3a4c057b0cef393906b8965efca"
+
+[[files]]
+file = "metadata/pack.toml"
+hash = "10017c9a71eb5b66cafe0e74d436b0b47765ea4c7f4c4f56860d0fd495e74288"
+
+[[files]]
+file = "minecraft/.github/workflows/build.yml"
+hash = "9c3e3a3ddb4692c49ae4c39d81ff9f869c3d4758a87f4fff3756340753bf1179"
+
+[[files]]
+file = "minecraft/.idea/QSMCTemplate.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
+file = "minecraft/.idea/misc.xml"
+hash = "ae35239d178094e997ce56325cdbbd72d73b98686859d42326d7a32f3f5a4669"
+
+[[files]]
+file = "minecraft/.idea/modules.xml"
+hash = "8062155e9d6361df9768a4329552277b61acd005cc9945b10bc282fbd0e04be6"
+
+[[files]]
+file = "minecraft/.idea/vcs.xml"
+hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+
+[[files]]
+file = "minecraft/.idea/workspace.xml"
+hash = "fe02290d08f12fcc4e98646346dd5528d7bb5fd4ab9f4d683cbfb18b81cbf781"
+
+[[files]]
+file = "minecraft/LICENSE"
+hash = "fecd3b5d0bf459ea27933cd57cf3fa4c975308c8555e7cfbd5196360b83ddfca"
+
+[[files]]
+file = "minecraft/README.md"
+hash = "7e2183b8b89b0aa96c346f00d6d86aa43448930fac11701e2da5f8a9a8857fa4"
+
+[[files]]
+file = "minecraft/compile.py"
+hash = "7a65ad1c0ffac93f1c2e3e5749decda972bc593e48fa48051a4f117b4c6ee5fa"
+
+[[files]]
+file = "minecraft/config/appleskin-client.toml"
+hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
+
+[[files]]
+file = "minecraft/config/fml.toml"
+hash = "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b"
+
+[[files]]
+file = "minecraft/config/forge-client.toml"
+hash = "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc"
+
+[[files]]
+file = "minecraft/icon.png"
+hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
+
+[[files]]
+file = "minecraft/instance.cfg"
+hash = "b5fd2cbd6aa40ce1935296218ec4062e69728acfbad780271c17acd15146b60f"
+
+[[files]]
+file = "minecraft/logs/2026-02-28-1.log.gz"
+hash = "6ad05c8da479024c8eead135b03b649cd08729b141f3ef4d272b8498fcb0f9ff"
+
+[[files]]
+file = "minecraft/logs/2026-02-28-2.log.gz"
+hash = "742dfc3f494cedcfb4ac74692010628cef56162017d3a6fd37676c5bd7f529c6"
+
+[[files]]
+file = "minecraft/logs/2026-02-28-3.log.gz"
+hash = "7cbef17b04a55547c54d3efa47cc7f06d4c627691ae76ca2749429e4235930f9"
+
+[[files]]
+file = "minecraft/logs/debug-1.log.gz"
+hash = "9c258a4e5b2939a314e9af4c83300dd83dd3af276e7d52ee1705dd23dd1be571"
+
+[[files]]
+file = "minecraft/logs/debug-2.log.gz"
+hash = "6f0f6571674a2ff725ebbecf96e7f775a6e95d35f23815c4b05c7cbc3cc1b8e8"
+
+[[files]]
+file = "minecraft/logs/debug-3.log.gz"
+hash = "7be2aaf012fc1677f8eca998175988446a630afb00d6ecf74461a4adce2253ba"
+
+[[files]]
+file = "minecraft/logs/debug.log"
+hash = "fedbd05ab5ac8c257e706651ad9d2fe621315fefd374d4169938cf6d6d3c41e6"
+
+[[files]]
+file = "minecraft/logs/latest.log"
+hash = "68bbb00e444d6989466bfaf3364e31328612b5486f31daa0a42e40b3527a0e74"
+
+[[files]]
+file = "minecraft/logs/telemetry/20260228-1.json.gz"
+hash = "ac73670af3abed54ac6fb4695131f4099be9fbe39d6076c5d0264a6bbdae9d83"
+
+[[files]]
+file = "minecraft/logs/telemetry/20260228-2.json.gz"
+hash = "ac73670af3abed54ac6fb4695131f4099be9fbe39d6076c5d0264a6bbdae9d83"
+
+[[files]]
+file = "minecraft/logs/telemetry/20260228-3.json.gz"
+hash = "ac73670af3abed54ac6fb4695131f4099be9fbe39d6076c5d0264a6bbdae9d83"
+
+[[files]]
+file = "minecraft/logs/telemetry/20260228-4.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "minecraft/metadata/index.toml"
+hash = "93a4b25864a7e71c92e02829df5bb02b7296d3a4c057b0cef393906b8965efca"
+
+[[files]]
+file = "minecraft/metadata/pack.toml"
+hash = "10017c9a71eb5b66cafe0e74d436b0b47765ea4c7f4c4f56860d0fd495e74288"
+
+[[files]]
+file = "minecraft/mmc-pack.json"
+hash = "2d42353c60959dbd70303802f0e27de31fe2b939d8b4ce0fbba8a0d72a7f800c"
+
+[[files]]
+file = "minecraft/mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+
+[[files]]
+file = "minecraft/options.txt"
+hash = "2360f115582e5d209efebf155c247b39acc1f744154230c15ef3596dbbeda4f4"
+
+[[files]]
+file = "minecraft/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "minecraft/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "minecraft/packwiz.json"
+hash = "ee392c2054390fc040f82b8bbf6cbef2680b5cb7887cbc60fe195a868a236a25"
+
+[[files]]
+file = "minecraft/update.py"
+hash = "4887938c508a0e57a1ef61cf8e9e614cce851028c085c3ce32f0a7dbbe4b4715"
+
+[[files]]
+file = "mmc-pack.json"
+hash = "2d42353c60959dbd70303802f0e27de31fe2b939d8b4ce0fbba8a0d72a7f800c"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+metafile = true
+
+[[files]]
+file = "mods/the-zoomify-mod.pw.toml"
+hash = "b75a777a1f65a833e5398800f3fe2715b0828989d366c38eca724c0269e233be"
+metafile = true
+
+[[files]]
+file = "update.py"
+hash = "0001b8d66434609203a1fdd7d26faf339da451805140e053f4224bcc6c3e5c8f"
